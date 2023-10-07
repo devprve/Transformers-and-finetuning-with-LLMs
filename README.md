@@ -43,4 +43,5 @@ The model repeats steps 2 and 3 until a stop token is generated.
 The generated sequence of tokens is the output of the model.
 
 
+Medium Article : https://medium.com/@devipriyassn.dp/transformers-and-finetuning-with-llms-b99e41fdca5a
 
