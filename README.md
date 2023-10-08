@@ -45,3 +45,36 @@ The generated sequence of tokens is the output of the model.
 
 Medium Article : https://medium.com/@devipriyassn.dp/transformers-and-finetuning-with-llms-b99e41fdca5a
 
+
+b) Implement "textbooks are all you need" case study with your own data
+
+full colab and all artifacts
+
+https://www.youtube.com/watch?v=gmFi6W8DPdMLinks to an external site.
+
+
+ 
+
+https://github.com/jina-ai/textbookLinks to an external site.
+
+ 
+
+https://colab.research.google.com/drive/1T4IfGfDJ8uxgU8XBPpMZivw_JThzdQim?usp=sharingLinks to an external site.
+
+ 
+
+https://arxiv.org/pdf/2306.11644.pdfLinks to an external site.
+
+ 
+
+use colab pro a100 setup
+
+ 
+
+use smaller amount of data
+
+ 
+
+use chatgpt gpt4 help 
+
+Answer :  TextbookCaseStudy.py
